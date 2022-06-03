@@ -1,7 +1,6 @@
 # Gesture Collective - Genesis NFT Collection
 
 ## Introducing the World's first gesture creation decentralised autonomous organisation, **Gesture Collective** - *“Gestures for a Better World"*
-
 ### Media & communications professionals and social scientists from all over the world came together in 2021 to form Gesture Collective (G.C.) with a mission to help solve diverse social problems by doing something never attempted before: inventing pro-social gestures and teaching them to the world.
 
 #
