@@ -22,6 +22,6 @@ PRIVATE_KEY=
 `npx hardhat help`
 #
 ### **Credits**
-This smart contract is a inspired by the Azuki ERC721A smart contract.
+This smart contract is inspired by the Azuki ERC721A smart contract.
 #
 Developed by [Ankur Daharwal](https://github.com/ankurdaharwal) for Gesture Collective &copy;
